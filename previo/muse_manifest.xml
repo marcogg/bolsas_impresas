@@ -1,0 +1,80 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolsas-impresas.com" resolutions="1x" timestamp="1476915595595">
+  <folder name="css">
+    <file name="site_global.css" crc="322992041"/>
+    <file name="master_pagina-maestra.css" crc="3916049853" ref="contacto:index"/>
+    <file name="contacto.css" crc="370457837" ref="contacto"/>
+    <file name="iefonts_contacto.css" crc="179187592" ref="contacto"/>
+    <file name="index.css" crc="101290363" ref="index"/>
+    <file name="iefonts_index.css" crc="3908247743" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:contacto"/>
+    <file name="museutils.js" crc="531812214" ref="index:contacto"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="index:contacto"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:contacto"/>
+    <file name="webpro.js" crc="4156477058" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="contacto"/>
+    <file name="form_check.php" crc="373582055" ref="contacto:index"/>
+    <file name="form_throttle.php" crc="211381018" ref="contacto:index"/>
+    <file name="form_process.php" crc="6354943" ref="contacto:index"/>
+    <file name="form-u6265.php" crc="3775420616" ref="contacto"/>
+    <file name="form-u7253.php" crc="3884738422" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-crop-u6545.png" crc="4085839465" ref="index:contacto"/>
+    <file name="youtube.png" crc="388093612" ref="index"/>
+    <file name="facebook.png" crc="30708419" ref="index"/>
+    <file name="bolsa-impresa-materiales.jpg" crc="3967855218" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bolsa-promocional-publicitaria-mandado-poliester-canasta-d_nq_np_876901-mlm20425927862_092015-f.jpg" crc="227841482" seo="true" ref="index"/>
+    <file name="back.png" crc="81499244" ref="index"/>
+    <file name="next.png" crc="4078152022" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="shadow.png" crc="3896218282" seo="true" ref="index"/>
+    <file name="bolsa-impresa.png" crc="3911449718" seo="true" ref="index"/>
+    <file name="medidas.jpg" crc="391994779" seo="true" ref="index"/>
+    <file name="portfolio23.jpg" crc="4011215897" seo="true" ref="index"/>
+    <file name="portfolio20182x140.jpg" crc="3773132138" seo="true" ref="index"/>
+    <file name="portfolio18199x154.jpg" crc="285294967" seo="true" ref="index"/>
+    <file name="portfolio21.jpg" crc="4008661375" seo="true" ref="index"/>
+    <file name="portfolio20.jpg" crc="4017007690" seo="true" ref="index"/>
+    <file name="portfolio18.jpg" crc="486567917" seo="true" ref="index"/>
+    <file name="email.png" crc="46001356" seo="true" ref="index:contacto"/>
+    <file name="phone.png" crc="515387949" seo="true" ref="index:contacto"/>
+    <file name="u6285-17.png" crc="245046166" ref="contacto"/>
+    <file name="u6285-17-r.png" crc="3758885984" ref="contacto"/>
+    <file name="u6285-17-m.png" crc="4092035446" ref="contacto"/>
+    <file name="u6285-17-fs.png" crc="4019710627" ref="contacto"/>
+    <file name="portfolio23-crop-u6672.jpg" crc="3878759848" ref="index"/>
+    <file name="portfolio21-crop-u6675.jpg" crc="20913171" ref="index"/>
+    <file name="portfolio19197x153.jpg" crc="45703191" seo="true" ref="index"/>
+    <file name="portfolio19.jpg" crc="4145372425" seo="true" ref="index"/>
+    <file name="portfolio17-crop-u7132.jpg" crc="352657812" ref="index"/>
+    <file name="portfolio16206x159.jpg" crc="3798303211" seo="true" ref="index"/>
+    <file name="portfolio15205x159.jpg" crc="148881803" seo="true" ref="index"/>
+    <file name="portfolio5-crop-u7129.jpg" crc="408386948" ref="index"/>
+    <file name="portfolio17.jpg" crc="322715471" seo="true" ref="index"/>
+    <file name="portfolio16.jpg" crc="3935176772" seo="true" ref="index"/>
+    <file name="portfolio15.jpg" crc="150680231" seo="true" ref="index"/>
+    <file name="portfolio5.jpg" crc="286294412" seo="true" ref="index"/>
+    <file name="u7267-17.png" crc="529028915" ref="index"/>
+    <file name="u7267-17-r.png" crc="3910831016" ref="index"/>
+    <file name="u7267-17-m.png" crc="383542214" ref="index"/>
+    <file name="u7267-17-fs.png" crc="136496514" ref="index"/>
+    <file name="check-icon.png" crc="20627918" seo="true" ref="index"/>
+    <file name="like.png" crc="4065378577" seo="true" ref="index"/>
+    <file name="u7349-grad.png" crc="143506610" ref="index"/>
+    <file name="u7349-r-grad.png" crc="4003872715" ref="index"/>
+    <file name="u7346-grad.png" crc="4273350481" ref="index"/>
+    <file name="frustrated-woman-featured.jpg" crc="4024714594" seo="true" ref="index"/>
+    <file name="17-512.png" crc="283424053" seo="true" ref="index"/>
+    <file name="9_press_release_services.png" crc="364888834" seo="true" ref="index"/>
+    <file name="shadow slider-u6346-fr.png" crc="3985578378" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="229444542" seo="true" mt="1476915586627" redirect="true"/>
+  <file name="contacto.html" crc="308762755" seo="true" mt="1476915454284" redirect="true"/>
+</manifest>

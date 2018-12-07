@@ -1,0 +1,243 @@
+#u6542
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(#FF3719),color-stop(100%, #C51314));
+	background: -webkit-linear-gradient(top,#FF3719 ,#C51314 100%);
+	background: linear-gradient(to bottom,#FF3719 ,#C51314 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFF3719, endColorstr=#FFC51314, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFF3719', endColorstr='#FFC51314', GradientType=0)";
+}
+
+#u7566-2
+{
+	font-weight: 700;
+	font-style: italic;
+}
+
+#u7566-5,#u7569-5
+{
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFF00;
+	font-size: 24px;
+	text-align: left;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+}
+
+#u7569-2
+{
+	font-weight: 700;
+}
+
+#u6961-8
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: right;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+}
+
+#u6961-2,#u6961-4
+{
+	font-size: 36px;
+	line-height: 32px;
+}
+
+#u6961-6
+{
+	font-size: 30px;
+	line-height: 27px;
+}
+
+#u6970
+{
+	background-color: #FFFFFF;
+}
+
+#u6967-8
+{
+	background-color: transparent;
+	line-height: 27px;
+	color: #FFFF00;
+	font-size: 30px;
+	text-align: left;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+}
+
+#u372
+{
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 100px;
+	background: #FF1419 url("../images/youtube.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u372:hover
+{
+	background: #42A5D0 url("../images/youtube.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u373
+{
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 100px;
+	background: #FF1419 url("../images/facebook.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u373:hover
+{
+	background: #42A5D0 url("../images/facebook.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u875-259
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u875-257
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u875-17
+{
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 14px;
+}
+
+#u875-45
+{
+	font-size: 12px;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 14px;
+}
+
+#u875-86
+{
+	font-size: 12px;
+	text-decoration: underline;
+	font-weight: bold;
+	line-height: 14px;
+}
+
+#u875-22,#u875-36,#u875-52,#u875-65,#u875-78,#u875-95,#u875-107,#u875-136,#u875-149,#u875-178,#u875-191,#u875-204,#u875-233
+{
+	font-size: 12px;
+	text-decoration: underline;
+	line-height: 14px;
+}
+
+#u875-4,#u875-11,#u875-20,#u875-24,#u875-33,#u875-38,#u875-49,#u875-54,#u875-62,#u875-67,#u875-75,#u875-80,#u875-91,#u875-97,#u875-105,#u875-109,#u875-118,#u875-125,#u875-133,#u875-138,#u875-146,#u875-151,#u875-159,#u875-165,#u875-175,#u875-180,#u875-188,#u875-193,#u875-201,#u875-206,#u875-215,#u875-222,#u875-230,#u875-235,#u875-239,#u875-243,#u875-249
+{
+	line-height: 17px;
+}
+
+#u875,#u875-3,#u875-7,#u875-8,#u875-10,#u875-12,#u875-13,#u875-15,#u875-18,#u875-19,#u875-21,#u875-23,#u875-25,#u875-27,#u875-30,#u875-32,#u875-35,#u875-37,#u875-39,#u875-40,#u875-42,#u875-46,#u875-48,#u875-51,#u875-53,#u875-55,#u875-56,#u875-57,#u875-61,#u875-64,#u875-66,#u875-68,#u875-69,#u875-70,#u875-74,#u875-77,#u875-79,#u875-81,#u875-82,#u875-83,#u875-84,#u875-88,#u875-90,#u875-94,#u875-96,#u875-98,#u875-99,#u875-100,#u875-103,#u875-104,#u875-108,#u875-110,#u875-111,#u875-112,#u875-115,#u875-117,#u875-121,#u875-122,#u875-124,#u875-126,#u875-127,#u875-128,#u875-131,#u875-132,#u875-135,#u875-137,#u875-139,#u875-141,#u875-144,#u875-145,#u875-148,#u875-150,#u875-152,#u875-153,#u875-154,#u875-157,#u875-158,#u875-161,#u875-162,#u875-164,#u875-167,#u875-168,#u875-170,#u875-173,#u875-174,#u875-177,#u875-179,#u875-181,#u875-183,#u875-186,#u875-187,#u875-190,#u875-192,#u875-194,#u875-195,#u875-196,#u875-199,#u875-200,#u875-203,#u875-205,#u875-207,#u875-208,#u875-209,#u875-212,#u875-214,#u875-218,#u875-219,#u875-221,#u875-223,#u875-224,#u875-225,#u875-228,#u875-229,#u875-232,#u875-234,#u875-236,#u875-237,#u875-238,#u875-241,#u875-242,#u875-245,#u875-246,#u875-248,#u875-251,#u875-252,#u875-253
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#u875-6,#u875-16,#u875-26,#u875-28,#u875-34,#u875-43,#u875-50,#u875-58,#u875-60,#u875-63,#u875-71,#u875-72,#u875-73,#u875-76,#u875-93,#u875-101,#u875-106,#u875-113,#u875-120,#u875-129,#u875-134,#u875-140,#u875-142,#u875-147,#u875-155,#u875-160,#u875-171,#u875-176,#u875-182,#u875-184,#u875-189,#u875-197,#u875-202,#u875-210,#u875-217,#u875-226,#u875-231,#u875-244,#u875-254
+{
+	font-size: 12px;
+	font-style: italic;
+	line-height: 14px;
+}
+
+#u875-29,#u875-59,#u875-87,#u875-102,#u875-114,#u875-130,#u875-143,#u875-156,#u875-172,#u875-185,#u875-198,#u875-211,#u875-227,#u875-240,#u875-256
+{
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 14px;
+}
+
+#u876
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #FF1419;
+}
+
+#u878-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u878
+{
+	font-weight: bold;
+}
+
+#u878-2
+{
+	font-weight: normal;
+}
+
+#u6545,#u880,#u882
+{
+	background-color: transparent;
+}
+
+#u879-4,#u5760-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+}
+
+#u939
+{
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 100px;
+	background: #E14536 url("../images/youtube.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u939:hover
+{
+	background: #0009D4 url("../images/youtube.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u933
+{
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 100px;
+	background: #5674AF url("../images/facebook.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u933:hover
+{
+	background: #0009D4 url("../images/facebook.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u877
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #881314;
+}
+
+
