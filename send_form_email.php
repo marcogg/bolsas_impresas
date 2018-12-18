@@ -1,9 +1,29 @@
 <?php
+//INICIO RECAPTCHA
+/*
+
+if(isset($_POST)){    
+  $captcha=$_POST['g-recaptcha-response'];
+  $ip = $_SERVER['REMOTE_ADDR'];
+  $secretkey = "6LcyjYIUAAAAALof9qGKFm39wl1JsXxy-UU-qfwg"; //MODIFICAR LA CLAVE SECRETA         
+  $response=file_get_contents("http://www.google.com/recaptcha/api/siteverify?secret=".$secretkey."&response=".$captcha."&remoteip=".$ip);
+  $responseKeys = json_decode($response,true);       
+
+  if(intval($responseKeys["success"]) !== 1) {
+      echo '<h2>Captcha incorrecto, intente de nuevo</h2>';
+  } else {
+      echo '<h2 class="text-center">¡Listo!</h2>';           
+  }                 
+}
+*/
+//FIN RECAPTCHA
+
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "ventas@bolsas-impresas.com ";
+    $email_to = "ventas@bolsas-impresas.com";
     $email_subject = "Nueva entrada en formulario desde Sitio Web";
+    
  
     function died($error) {
         // your error code can go here
